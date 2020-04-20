@@ -1,5 +1,5 @@
 # Prankers
-- Coded by Bartes Dwiky
+- Coded by Mr.TamfanX
 
 # Version 1.0
 - SpamCall Unlimited
@@ -8,8 +8,8 @@
 - SpamWhatsapp Unlimited
 
 # Contactme
-- https://www.instagram.com/bartes_07
-- clayhackerteam404@gmail.com
+- https://github.com/Anonymous3-SIT
+- +62899-9271-792
 
 # Website / Forum
 - http://www.ootopia.id/
@@ -19,5 +19,5 @@
 - CCP Programmers
 - ClayHackerTeam
 - IndoSec
-- DevlinCyberTeam
+- ShutdownIndoTeam
 
